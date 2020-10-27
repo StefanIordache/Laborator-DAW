@@ -29,3 +29,8 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 * [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey)
 
+
+--------------------
+
+* [Model lucrare de licenta](https://drive.google.com/file/d/1rNPIIueFEd-gEnAdB9Fqcn10LFOP3GgN/view?usp=sharing)
+
