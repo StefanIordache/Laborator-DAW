@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Exercitiul2";
+}
+
+<h2>Exercitiul - 2</h2>
+
+@* In cazul in care toti parametrii au fost specificati corect afisam mesajul, altfel, afisam eroarea *@
+@{
+    if (ViewData["message"] != null)
+    {
+        <p>Rezultat: @ViewData["message"]</p>
+    }
+    else
+    {
+        <p>Eroare: @ViewData["error"]</p>
+    }
+}

@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Exercitiul4";
+}
+
+<h2>Exercitiul - 4</h2>
+
+@{
+    // Putem trata erori diverse direct in View
+    try
+    {
+        // Este nevoie de un cast pentru a converti obiectul aflat in ViewData la cheia "numere" in lista de intregi
+        List<int> numere = ViewData["numere"] as List<int>;
+
+        foreach (int numar in numere)
+        {
+            @Html.Partial("_Exercitiul4Partial", numar);
+        }
+    }
+    catch (Exception e)
+    {
+        <p>Eroare: @e.Message</p>
+    }
+
+}
+

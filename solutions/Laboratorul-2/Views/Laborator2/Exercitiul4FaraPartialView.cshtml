@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Exercitiul4FaraPartialView";
+}
+
+<h2>Exercitiul - 4 -FaraPartialView</h2>
+
+@{
+    // Putem trata erori diverse direct in View
+    try
+    {
+        // Este nevoie de un cast pentru a converti obiectul aflat in ViewData la cheia "numere" in lista de intregi
+        List<int> numere = ViewData["numere"] as List<int>;
+
+        /*
+         * Folosirea unui view partial elimina o parte din complexitatea acestui view.
+         * Astfel, putem muta structura decizionala din structura repetitiva intr-o alta componenta.
+         */
+        foreach (int numar in numere)
+        {
+            if (numar % 7 == 0)
+            {
+                <h3> Numarul @numar este divizibil cu 7!</h3>
+            }
+            else
+            {
+                <h5>Numarul @numar NU este divizibil cu 7!</h5>
+            }
+        }
+    }
+    catch (Exception e)
+    {
+        <p>Eroare: @e.Message</p>
+    }
+    
+}
+

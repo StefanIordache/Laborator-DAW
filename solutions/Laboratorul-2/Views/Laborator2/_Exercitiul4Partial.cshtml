@@ -1,0 +1,13 @@
+﻿@* Suntem nevoiti sa specificam tipul de date utilizat prin sintaxa urmatoare *@
+@model int
+
+@{
+    if (Model % 7 == 0)
+    {
+        <h3> Numarul @Model este divizibil cu 7!</h3>
+    }
+    else
+    {
+        <h5>Numarul @Model NU este divizibil cu 7!</h5>
+    }
+}
