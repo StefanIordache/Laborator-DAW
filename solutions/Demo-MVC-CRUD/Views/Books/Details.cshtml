@@ -1,0 +1,31 @@
+﻿@model Demo_MVC_CRUD.Models.Book
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalii carte</h2>
+
+@Html.Label("Title", "Title:")
+<p>@Model.Title</p>
+
+<br />
+
+@Html.Label("Author", "Author:")
+<p>@Model.Author</p>
+
+<br />
+
+@Html.Label("Publisher", "Publisher:")
+<p>@Model.Publisher</p>
+
+<br />
+
+@Html.Label("Year", "Year:")
+<p>@Model.Year</p>
+
+<br />
+
+@Html.Label("Description", "Description:")
+<p>@Model.Description</p>
+

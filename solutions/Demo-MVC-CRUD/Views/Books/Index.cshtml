@@ -1,0 +1,43 @@
+﻿@using Demo_MVC_CRUD.Models
+@*@model Demo_MVC_CRUD.Models.Book*@
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista carti - te fac neprost</h2>
+
+@{
+    var booksList = ViewData["books"] as List<Book>;
+
+    foreach (var book in booksList)
+    {
+        @Html.Label("Title", "Title:")
+        <p>@book.Title</p>
+
+        <br />
+
+        @Html.Label("Author", "Author:")
+        <p>@book.Author</p>
+
+        <br />
+
+        using (Html.BeginForm(actionName: "Details",
+            controllerName: "Books",
+            method: FormMethod.Get,
+            routeValues: new { id = book.Id }))
+        {
+            <button class="btn btn-info">Detalii</button>
+
+        }
+
+        @*<a href="/books/details/@book.Id">Detalii</a>*@
+
+        <br />
+
+        <a href="/books/delete/@book.Id" class="btn btn-danger">Sterge</a>
+
+        <hr />
+    }
+}
+
