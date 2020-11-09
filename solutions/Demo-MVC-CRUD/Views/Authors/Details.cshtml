@@ -1,0 +1,21 @@
+﻿@model Demo_MVC_CRUD.Models.Author
+
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalii autor</h2>
+
+@Html.Label("Last Name", "Last Name:")
+<p>@Model.LastName</p>
+
+<br />
+
+@Html.Label("Frst Name", "First Name:")
+<p>@Model.FirstName</p>
+
+<br />
+
+@Html.Label("Email", "Email:")
+<p>@Model.Email</p>

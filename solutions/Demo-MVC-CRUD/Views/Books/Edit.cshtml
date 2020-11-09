@@ -1,0 +1,65 @@
+﻿@model Demo_MVC_CRUD.Models.Book
+
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Editare carte</h2>
+
+<br />
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        
+        @Html.HiddenFor(x => x.Id);
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Title, new {@class = "control-label col-md-3"})
+            <div class="col-md-9">
+                @Html.TextBoxFor(x => x.Title, new {@class = "form-control"})
+                @Html.ValidationMessageFor(x => x.Title, "", new {@class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Author, new {@class = "control-label col-md-3"})
+            <div class="col-md-9">
+                @Html.TextBoxFor(x => x.Author, new {@class = "form-control"})
+                @Html.ValidationMessageFor(x => x.Author, "", new {@class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Publisher, new {@class = "control-label col-md-3"})
+            <div class="col-md-9">
+                @Html.TextBoxFor(x => x.Publisher, new {@class = "form-control"})
+                @Html.ValidationMessageFor(x => x.Publisher, "", new {@class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Year, new {@class = "control-label col-md-3"})
+            <div class="col-md-9">
+                @Html.TextBoxFor(x => x.Year, new {@class = "form-control"})
+                @Html.ValidationMessageFor(x => x.Year, "", new {@class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Description, new {@class = "control-label col-md-3"})
+            <div class="col-md-9">
+                @Html.TextBoxFor(x => x.Description, new {@class = "form-control"})
+                @Html.ValidationMessageFor(x => x.Description, "", new {@class = "text-danger"})
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10 col-md-offset-2">
+                <input type="submit" value="Edit" class="btn btn-primary"/>
+            </div>
+        </div>
+
+    </div>
+}

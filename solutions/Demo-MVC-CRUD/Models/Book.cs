@@ -16,13 +16,16 @@ namespace Demo_MVC_CRUD.Models
         public string Title { get; set; }
 
         [Required]
-        public string Author { get; set; }
-
-        [Required]
         public string Publisher { get; set; }
 
         public int? Year { get; set; }
 
         public string Description { get; set; }
+
+        [Required]
+        public int AuthorId { get; set; }
+
+        [ForeignKey("AuthorId")]
+        public Author Author { get; set; }
     }
 }

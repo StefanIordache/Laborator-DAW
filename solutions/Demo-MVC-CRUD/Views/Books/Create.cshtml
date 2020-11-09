@@ -23,8 +23,9 @@
     <div class="form-group">
         @Html.LabelFor(x => x.Author, new { @class = "control-label col-md-3" })
         <div class="col-md-9">
-            @Html.TextBoxFor(x => x.Author, new { @class = "form-control" })
-            @Html.ValidationMessageFor(x => x.Author, "", new { @class = "text-danger" })
+            @*@Html.DropDownList("AuthorId", new SelectList(ViewBag.Authors, "AuthorId", "AuthorName"))*@
+            @Html.DropDownList("AuthorId", (SelectList)ViewBag.Authors)
+            @Html.ValidationMessageFor(x => x.AuthorId, "", new {@class = "text-danger"})
         </div>
     </div>
 
@@ -47,7 +48,7 @@
     <div class="form-group">
         @Html.LabelFor(x => x.Description, new { @class = "control-label col-md-3" })
         <div class="col-md-9">
-            @Html.TextBoxFor(x => x.Description, new { @class = "form-control" })
+            @Html.TextAreaFor(x => x.Description, new { @class = "form-control" })
             @Html.ValidationMessageFor(x => x.Description, "", new { @class = "text-danger" })
         </div>
     </div>

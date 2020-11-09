@@ -1,0 +1,55 @@
+﻿@using Demo_MVC_CRUD.Models
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista autori</h2>
+
+<a href="/authors/create" class="btn btn-success">Adaugare autor</a>
+
+<br />
+
+@{
+    var authorsList = ViewData["authors"] as List<Author>;
+
+    foreach (var author in authorsList)
+    {
+        <div class="col-md-4 col-lg-4 col-xs-6 col-sm-4">
+            
+            @Html.Label("First Name", "First Name:")
+            <p>@author.FirstName</p>
+
+            <br />
+
+            @Html.Label("Last Name", "Last Name:")
+            <p>@author.LastName</p>
+
+            <br />
+
+            @using (Html.BeginForm(actionName: "Details",
+                controllerName: "Authors",
+                method: FormMethod.Get,
+                routeValues: new { id = author.Id }))
+            {
+                <button class="btn btn-info">Detalii</button>
+
+            }
+
+            <br />
+
+            <a href="/authors/edit/@author.Id" class="btn btn-warning">Editare</a>
+
+            <br />
+            <br/>
+
+            <a href="/authors/delete/@author.Id" class="btn btn-danger">Sterge</a>
+
+        </div>
+
+
+
+
+    }
+}

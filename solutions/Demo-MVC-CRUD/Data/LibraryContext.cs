@@ -20,7 +20,8 @@ namespace Demo_MVC_CRUD.Data
             base.OnModelCreating(modelBuilder);
         }
 
-        public DbSet<Book> Books { get; set; }
+        public DbSet<Author> Author { get; set; }
 
+        public DbSet<Book> Books { get; set; }
     }
 }

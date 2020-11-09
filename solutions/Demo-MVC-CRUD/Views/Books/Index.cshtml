@@ -7,37 +7,50 @@
 
 <h2>Lista carti - te fac neprost</h2>
 
+<a href="/books/create" class="btn btn-success">Creare carte</a>
+
+<br />
+
 @{
     var booksList = ViewData["books"] as List<Book>;
 
     foreach (var book in booksList)
     {
-        @Html.Label("Title", "Title:")
-        <p>@book.Title</p>
+        <div class="col-md-4 col-lg-4 col-xs-6 col-sm-4">
+            
+            @Html.Label("Title", "Title:")
+            <p>@book.Title</p>
 
-        <br />
+            <br />
 
-        @Html.Label("Author", "Author:")
-        <p>@book.Author</p>
+            @Html.Label("Author", "Author:")
+            <p>@book.Author.LastName</p>
 
-        <br />
+            <br />
 
-        using (Html.BeginForm(actionName: "Details",
+            @using (Html.BeginForm(actionName: "Details",
             controllerName: "Books",
             method: FormMethod.Get,
             routeValues: new { id = book.Id }))
-        {
+            {
             <button class="btn btn-info">Detalii</button>
 
-        }
+            }
 
-        @*<a href="/books/details/@book.Id">Detalii</a>*@
+            <br />
 
-        <br />
+            <a href="/books/edit/@book.Id" class="btn btn-warning">Editare</a>
 
-        <a href="/books/delete/@book.Id" class="btn btn-danger">Sterge</a>
+            <br />
+            <br/>
 
-        <hr />
+            <a href="/books/delete/@book.Id" class="btn btn-danger">Sterge</a>
+
+        </div>
+
+
+
+
     }
 }
 
