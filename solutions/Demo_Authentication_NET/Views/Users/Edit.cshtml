@@ -1,0 +1,20 @@
+﻿@model Demo_Authentication_NET.Models.UserViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Editare rol</h2>
+
+@using (Html.BeginForm(actionName: "Edit", controllerName: "Users", routeValues: new {id = @Model.User.Id}))
+{
+    @Html.HiddenFor(x => x.User.Id)
+
+    <label>Role:</label>
+    @Html.EditorFor(x => x.RoleName, new { htmlAttributes = new { @class = "form-control" }})
+
+    <br />
+
+    <button class="btn btn-warning" type="submit">Salvare modificari</button>
+}
+

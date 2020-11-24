@@ -1,0 +1,24 @@
+﻿@model Demo_Authentication_NET.Models.ApplicationUser
+
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalii utilizator</h2>
+
+<label>Email:</label>
+<p>@Model.Email</p>
+
+<br />
+
+<label>UserName:</label>
+<p>@Model.UserName</p>
+
+<br />
+
+<label>Role:</label>
+<p>@ViewBag.RoleName.ToString()</p>
+
+<br />
+

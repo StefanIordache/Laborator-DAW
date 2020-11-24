@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista utilizatori</h2>
+
+<div>
+    @foreach (var utilizator in ViewBag.Users)
+    {
+        <label>Email:</label>
+        <p>@utilizator.Email</p>
+
+        <br />
+
+        <label>UserName:</label>
+        <p>@utilizator.UserName</p>
+
+        <br />
+
+        // buton detalii
+        @Html.ActionLink("Detalii", "Details", new { id = @utilizator.Id })
+
+        <br/>
+
+        // buton editare rol
+        @Html.ActionLink("Editare rol", "Edit", new { id = @utilizator.Id })
+
+        <hr />
+    }
+</div>
+
