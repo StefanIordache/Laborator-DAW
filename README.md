@@ -4,6 +4,8 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 --------------------
 
+<br/>
+<br/>
 
 ## Resurse de baza (va vor ajuta sa intelegeti mediul .NET & multe altele)
 * [What are web frameworks and why you need them?](https://intelegain-technologies.medium.com/what-are-web-frameworks-and-why-you-need-them-c4e8806bd0fb)
@@ -15,6 +17,8 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 --------------------
 
+<br/>
+<br/>
 
 ## Versionare - Git
 * [An intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
@@ -41,9 +45,14 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 * [GitHub Desktop](https://desktop.github.com/)
 * [GitKraken](https://www.gitkraken.com/) ---> asta chiar este fain, descoperit recent si de mine. Ffff colorat, integrabil cu aproape orice (Jira, GitHub, Bitbucket, GitLab, you name it)
 
+:warning: **NU EXISTA "CEL MAI BUN" in domeniul versionarii.** Va recomand sa interactionati cu ele, sa descoperiti ce ofera si sa stabiliti un preferat, pentru proiectele personale si nu numai, doar dupa ce incercati cate putin din fiecare.
+
 
 --------------------
 
+
+<br/>
+<br/>
 
 ## Pentru cei pasionati/avansati/doritori de mai mult
 ### **(Lectura suplimentara)**
@@ -53,6 +62,8 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 --------------------
 
+<br/>
+<br/>
 
 ## Canale de YouTube (.NET & multe altele)
 
@@ -60,6 +71,9 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 
 --------------------
+
+<br/>
+<br/>
 
 * [Model lucrare de licenta](https://drive.google.com/file/d/1rNPIIueFEd-gEnAdB9Fqcn10LFOP3GgN/view?usp=sharing)
 
