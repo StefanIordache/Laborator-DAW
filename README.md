@@ -12,6 +12,10 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 * [**How to build a web app: A beginner's guide (2020)**](https://www.budibase.com/blog/how-to-make-a-web-app/) (&nbsp; :warning: &nbsp; **FOARTE IMPORTANT, INDIFERENT DE TEHNOLOGIIILE UTILIZATE**)
 * [2021 Tech Trends & Predictions for Developers](https://www.youtube.com/watch?v=oHtR5YSPLjo&ab_channel=Fireship) (&nbsp; :triangular_flag_on_post: &nbsp; VIDEO YOUTBE)
+* [The 2020 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+
+<br/>
+
 * [What are web frameworks and why you need them?](https://intelegain-technologies.medium.com/what-are-web-frameworks-and-why-you-need-them-c4e8806bd0fb)
 * [What is .NET?](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet)
 * [ASP.NET Core - Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
@@ -39,7 +43,12 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 * [.NET Tutorial - Your First Microservice](https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial/intro)
 * [Dependency Injection in ASP.NET Web API 2](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/dependency-injection)
 * [Dependency Injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0)
-* [The 2020 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+* [Sending Emails - SendGrid - documentation](https://sendgrid.com/docs/for-developers/sending-email/v2-csharp-code-example/)
+* [Send Email Using SendGrid Email Service with an Attachement](https://medium.com/@shahedbd/send-email-using-sendgrid-email-service-with-an-attachment-aa7046cc0a35)
+* [Account confirmation and password recovery with ASP.NET Identity (C#)](https://docs.microsoft.com/en-us/aspnet/identity/overview/features-api/account-confirmation-and-password-recovery-with-aspnet-identity)
+* [Payment Gateway Integration With ASP.NET MVC](https://www.c-sharpcorner.com/article/payment-gateway-integration-in-asp-net-mvc/) (**PayU Money**)
+* [Accept payments with Stripe in ASP.NET & C#](https://techtolia.medium.com/accept-payments-with-stripe-and-asp-net-c-83f285ed98e0) (**Stripe**)
+* [Accepting payments with Stripe and ASP.NET Core](https://techtolia.medium.com/accept-payments-with-stripe-and-asp-net-c-83f285ed98e0) (**Stripe**)
 
 
 --------------------
