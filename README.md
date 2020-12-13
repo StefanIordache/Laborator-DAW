@@ -16,6 +16,35 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 --------------------
 
 
+## Versionare - Git
+* [An intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+* [Using Git Branches](https://www.atlassian.com/git/tutorials/using-branches)
+* [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+* [A succesful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+* [Using Git like a Pro](https://www.geneatcg.com/using-git-like-a-pro/)
+
+## **Solutii si produse software utile**
+
+### **SFANTA TREIME:**
+* [GitHub](https://github.com/)
+  * Este **gratuit** pentru majoritatea cazurilor de utilizare
+  * Studentii pot accesa un program vast numit [**GitHub Education - for Students**](https://education.github.com/students) ---> sute de beneficii
+  * [**Git Large File System**](https://git-lfs.github.com/) este o solutie foarte utila pentru proiectele care contin fisiere mari 
+* [GitLab](https://about.gitlab.com/) --> pe anumite segmente este mult mai bun decat GitHub
+  * Este **gratuit** pentru majoritatea cazurilor de utilizare, diferentele fata de alte sisteme de versionare fiind minore
+* [Bitbucket](https://bitbucket.org/)
+  * Din nou, **gratuit** pentru tineri, studenti, oameni aflati la inceput de drum
+  * Face parte din familia [**Atlassian**](https://www.atlassian.com/) ---> Jira, Confluence, Trello, etc. (foarte putini dezvoltatori sau profesionali din industrie au experienta zero cu acestea. Va invit sa le studiati.)
+  
+### Software util / Git GUI (mai ales pentru cei care urasc consola):
+* [Sourcetree](https://www.sourcetreeapp.com/)
+* [GitHub Desktop](https://desktop.github.com/)
+* [GitKraken](https://www.gitkraken.com/) ---> asta chiar este fain, descoperit recent si de mine. Ffff colorat, integrabil cu aproape orice (Jira, GitHub, Bitbucket, GitLab, you name it)
+
+
+--------------------
+
+
 ## Pentru cei pasionati/avansati/doritori de mai mult
 ### **(Lectura suplimentara)**
 * [ASP.NET CORE: SATURATING 10GBE AT 7+ MILLION REQUEST/S](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
