@@ -45,11 +45,10 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 * [GitHub Desktop](https://desktop.github.com/)
 * [GitKraken](https://www.gitkraken.com/) ---> asta chiar este fain, descoperit recent si de mine. Ffff colorat, integrabil cu aproape orice (Jira, GitHub, Bitbucket, GitLab, you name it)
 
-:warning: **NU EXISTA "CEL MAI BUN" in domeniul versionarii.** Va recomand sa interactionati cu ele, sa descoperiti ce ofera si sa stabiliti un preferat, pentru proiectele personale si nu numai, doar dupa ce incercati cate putin din fiecare.
+:warning: &nbsp;&nbsp; **NU EXISTA "CEL MAI BUN" in domeniul versionarii.** Va recomand sa interactionati cu ele, sa descoperiti ce ofera si sa stabiliti un preferat, pentru proiectele personale si nu numai, doar dupa ce incercati cate putin din fiecare.
 
 
 --------------------
-
 
 <br/>
 <br/>
@@ -67,7 +66,7 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 ## Canale de YouTube (.NET & multe altele)
 
-:white_check_mark: Lista este conceputa din canale vizionate de mine si exista multe altele, pe langa acestea (va invit cu muuuulte completari).
+:white_check_mark: &nbsp;&nbsp; Lista este conceputa din canale vizionate de mine si exista multe altele, pe langa acestea (**orice completare este bine-venita**).
 
 * **.NET:**
   * [.NET Foundation](https://www.youtube.com/c/NETFoundation/featured)
@@ -81,5 +80,19 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 <br/>
 <br/>
 
-* [Model lucrare de licenta](https://drive.google.com/file/d/1rNPIIueFEd-gEnAdB9Fqcn10LFOP3GgN/view?usp=sharing)
+## Cursuri (fie ele platite cu :moneybag: sau nu :free:&nbsp;)
+:warning: &nbsp;&nbsp; **NU CUMPARATI NICIODATA LA PRET COMPLET, FITI CU &nbsp; :eyes: &nbsp; PE REDUCERI, MAI ALES PE UDEMY!!!**
+
+:exclamation: &nbsp;&nbsp; **PROFITATI DE FIRMELE LA CARE LUCRATI SI CERETI LICENTE PENTRU PLATFORME DE INVATARE!!!**
+
+:trollface: &nbsp;&nbsp; **APLICATI URMATOAREA STRATEGIE: Piratati un curs (torrent) -> Invatati -> Practicati -> Rasplatiti dupa ani de zile autorul cursului/materialului, prin achizitionare**
+
+
+--------------------
+
+<br/>
+<br/>
+
+## **Mici dorinte**
+* [**Model lucrare de licenta**](https://drive.google.com/file/d/1rNPIIueFEd-gEnAdB9Fqcn10LFOP3GgN/view?usp=sharing)
 
