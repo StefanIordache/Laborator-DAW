@@ -67,7 +67,13 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 ## Canale de YouTube (.NET & multe altele)
 
-* [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey)
+:white_check_mark: Lista este conceputa din canale vizionate de mine si exista multe altele, pe langa acestea (va invit cu muuuulte completari).
+
+* **.NET:**
+  * [.NET Foundation](https://www.youtube.com/c/NETFoundation/featured)
+  * [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey)
+* **Altele:**
+  * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) --> generalitati, NodeJS, React, Angular, Vue, cloud (in special Google Cloud Platform)
 
 
 --------------------
