@@ -8,7 +8,7 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 <br/>
 
 ## Resurse de baza (va vor ajuta sa intelegeti mediul .NET & multe altele)
-:warning: &nbsp; **ATENTIE LA DOCUMENTATIA MICROSOFT! VERIFICATI VERSIUNEA, MAI PRECIS DACA ESTE VORBA DESPRE .NET (3 SAU 4), .NET CORE (1, 2, 3) SAU .NET 5!!!!
+:warning: &nbsp; **ATENTIE LA DOCUMENTATIA MICROSOFT! VERIFICATI VERSIUNEA, MAI PRECIS DACA ESTE VORBA DESPRE .NET (3 SAU 4), .NET CORE (1, 2, 3) SAU .NET 5!!!!**
 
 * [**How to build a web app: A beginner's guide (2020)**](https://www.budibase.com/blog/how-to-make-a-web-app/) (&nbsp; :warning: &nbsp; **FOARTE IMPORTANT, INDIFERENT DE TEHNOLOGIIILE UTILIZATE**)
 * [2021 Tech Trends & Predictions for Developers](https://www.youtube.com/watch?v=oHtR5YSPLjo&ab_channel=Fireship) (&nbsp; :triangular_flag_on_post: &nbsp; VIDEO YOUTBE)
