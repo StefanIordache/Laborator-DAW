@@ -85,7 +85,16 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 
 :exclamation: &nbsp;&nbsp; **PROFITATI DE FIRMELE LA CARE LUCRATI SI CERETI LICENTE PENTRU PLATFORME DE INVATARE!!!**
 
-:trollface: &nbsp;&nbsp; **APLICATI URMATOAREA STRATEGIE: Piratati un curs (torrent) -> Invatati -> Practicati -> Rasplatiti dupa ani de zile autorul cursului/materialului, prin achizitionare**
+:star: &nbsp;&nbsp; **APLICATI URMATOAREA STRATEGIE: Piratati un curs (torrent) -> Invatati -> Practicati -> Rasplatiti dupa ani de zile autorul cursului/materialului, prin achizitionare**
+
+* [The Complete ASP.NET MVC 5 Course](https://www.udemy.com/course/the-complete-aspnet-mvc-5-course/) (**UDEMY**) ([versiune piratata](https://drive.google.com/file/d/1ZoxDlekbw_jd_NF6fjeMRQ5QeGPqxki6/view?usp=sharing))
+* [Build an app with ASPNET Core and Angular from scratch](https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/) (**UDEMY**)([versiune piratata](https://downloadly.net/2020/13/3806/03/build-an-app-with-aspnet-core-and-angular-from-scratch/20/?#/3806-udemy-142004124013.html))
+* [Complete guide to building an app with .Net Core and React](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/) (**UDEMY**)
+* [ASP.NET Core Fundamentals](https://www.pluralsight.com/courses/aspnet-core-fundamentals) (**Pluralsight**)
+* [ASP.NET MVC 5 Fundamentals](https://www.pluralsight.com/courses/aspdotnet-mvc5-fundamentals) (**Pluralsight**)
+* [Mastering LINQ with C# and .NET](https://www.udemy.com/course/linqlinq/) (**UDEMY**)
+* [Learn .NET](https://dotnet.microsoft.com/learn) (**Microsoft**) &nbsp;:free:&nbsp; ---> **Este un punct foarte bun de plecare, pentru a putea intelege faptul ca mediul .NET nu este folosit doar pentru dezvoltare web!**
+
 
 
 --------------------
