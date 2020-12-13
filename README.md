@@ -8,11 +8,38 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 <br/>
 
 ## Resurse de baza (va vor ajuta sa intelegeti mediul .NET & multe altele)
+:warning: &nbsp; **ATENTIE LA DOCUMENTATIA MICROSOFT! VERIFICATI VERSIUNEA, MAI PRECIS DACA ESTE VORBA DESPRE .NET (3 SAU 4), .NET CORE (1, 2, 3) SAU .NET 5!!!!
+
+* [**How to build a web app: A beginner's guide (2020)**](https://www.budibase.com/blog/how-to-make-a-web-app/) (&nbsp; :warning: &nbsp; **FOARTE IMPORTANT, INDIFERENT DE TEHNOLOGIIILE UTILIZATE**)
+* [2021 Tech Trends & Predictions for Developers](https://www.youtube.com/watch?v=oHtR5YSPLjo&ab_channel=Fireship) (&nbsp; :triangular_flag_on_post: &nbsp; VIDEO YOUTBE)
 * [What are web frameworks and why you need them?](https://intelegain-technologies.medium.com/what-are-web-frameworks-and-why-you-need-them-c4e8806bd0fb)
 * [What is .NET?](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet)
 * [ASP.NET Core - Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 * [Reason Why .Net Framework is the Most desirable Framework in 2020!](https://medium.com/dataseries/reason-why-net-framework-is-the-most-desirable-framework-in-2020-29fe5554f4ac)
 *  **FOARTE IMPORTANT/NEXT LEVEL:** [Azure for .NET developers](https://docs.microsoft.com/en-us/dotnet/azure/)
+* [C# Database Connection: How to connect SQL Server](https://www.guru99.com/c-sharp-access-database.html) (**fara contexte**)
+* [Tutorial: Get started with EF Core in an ASP.NET MVC web app](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-5.0) (&nbsp; :warning: &nbsp; ASP.NET 5 - EF Core - .NET Core)
+* [ASP.NET overview](https://docs.microsoft.com/en-us/aspnet/overview)
+* [Using Entity Framework Implementation of ASP.NET for PostgreSQL](https://www.devart.com/dotconnect/postgresql/docs/Identity-Tutorial-Entity.html) (**util pentru conexiunea cu PostgreSQL sau alte baze de date**)
+* [ENTITY FRAMEWORK TUTORIALS](https://www.entityframeworktutorial.net/) --> Basics, DB-First, Code-First, Core, Cheat Sheets, Quizes
+* [LINQ TUTORIALS](https://www.tutorialsteacher.com/linq/linq-tutorials)
+
+
+--------------------
+
+<br/>
+<br/>
+
+## Pentru cei pasionati/avansati/doritori de mai mult
+### **(Lectura suplimentara)**
+
+* [ASP.NET CORE: SATURATING 10GBE AT 7+ MILLION REQUEST/S](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
+* [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
+* [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/aspnet/microservices-architecture)
+* [.NET Tutorial - Your First Microservice](https://dotnet.microsoft.com/learn/aspnet/microservice-tutorial/intro)
+* [Dependency Injection in ASP.NET Web API 2](https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/dependency-injection)
+* [Dependency Injection in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0)
+* [The 2020 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 
 
 --------------------
@@ -46,17 +73,6 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 * [GitKraken](https://www.gitkraken.com/) ---> asta chiar este fain, descoperit recent si de mine. Ffff colorat, integrabil cu aproape orice (Jira, GitHub, Bitbucket, GitLab, you name it)
 
 :warning: &nbsp;&nbsp; **NU EXISTA "CEL MAI BUN" in domeniul versionarii.** Va recomand sa interactionati cu ele, sa descoperiti ce ofera si sa stabiliti un preferat, pentru proiectele personale si nu numai, doar dupa ce incercati cate putin din fiecare.
-
-
---------------------
-
-<br/>
-<br/>
-
-## Pentru cei pasionati/avansati/doritori de mai mult
-### **(Lectura suplimentara)**
-* [ASP.NET CORE: SATURATING 10GBE AT 7+ MILLION REQUEST/S](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
-* [Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 
 
 --------------------
