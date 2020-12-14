@@ -25,8 +25,15 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 * [Tutorial: Get started with EF Core in an ASP.NET MVC web app](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-5.0) (&nbsp; :warning: &nbsp; ASP.NET 5 - EF Core - .NET Core)
 * [ASP.NET overview](https://docs.microsoft.com/en-us/aspnet/overview)
 * [Using Entity Framework Implementation of ASP.NET for PostgreSQL](https://www.devart.com/dotconnect/postgresql/docs/Identity-Tutorial-Entity.html) (**util pentru conexiunea cu PostgreSQL sau alte baze de date**)
+
+<br/>
+
 * [ENTITY FRAMEWORK TUTORIALS](https://www.entityframeworktutorial.net/) --> Basics, DB-First, Code-First, Core, Cheat Sheets, Quizes
 * [LINQ TUTORIALS](https://www.tutorialsteacher.com/linq/linq-tutorials)
+
+<br/>
+
+* [Using DataTables Grid With ASP.NET MVC](https://www.c-sharpcorner.com/article/using-datatables-grid-with-asp-net-mvc/)
 
 
 --------------------
