@@ -7,6 +7,18 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 <br/>
 <br/>
 
+## :warning: &nbsp; :warning: &nbsp; Informatii proiect
+
+* [**Lista proiecte**](https://docs.google.com/spreadsheets/d/1eiLA37C_eJEd_kGzug8pq2PXmIUxwLI_9yFi2M-yvBM/edit?usp=sharing)
+* [**Cerinte orientative**](https://docs.google.com/document/d/1eblJyuZewG4Iww-6HyujqrygmbJY8McrULhFXAYPxX4/edit?usp=sharing)
+* [**Barem/Raport de corectare**](https://drive.google.com/file/d/1v_N_JUW1NNqlPGqXe7eYfx8_NPVLk8BH/view?usp=sharing)
+
+
+--------------------
+
+<br/>
+<br/>
+
 ## Resurse de baza (va vor ajuta sa intelegeti mediul .NET & multe altele)
 :warning: &nbsp; **ATENTIE LA DOCUMENTATIA MICROSOFT! VERIFICATI VERSIUNEA, MAI PRECIS DACA ESTE VORBA DESPRE .NET (3 SAU 4), .NET CORE (1, 2, 3) SAU .NET 5!!!!**
 
