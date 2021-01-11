@@ -7,6 +7,19 @@ Laboratoare &amp; Materiale - Dezvoltarea Aplicatiilor Web
 <br/>
 <br/>
 
+## :warning: &nbsp; :warning: &nbsp; Informatii examen (tips & tricks)
+
+* **FOLOSITI SCAFFOLDING SAU INCERCATI SA REPRODUCETI PARTEA DE CREARE AUTOMATA (Controller with Views using Entity Framework)**
+* **PENTRU DATA TABLES PUTETI FOLOSI URMATORUL EXEMPLU: [DATA TABLES](http://www.dotnetawesome.com/2016/12/crud-operation-using-datatables-aspnet-mvc.html)**
+* **EXEMPLE SI TEMPLATEURI PENTRU IMPLEMENTARI SE GASESC IN ZONA DE SOLUTIONS DIN REPO**
+
+
+
+--------------------
+
+<br/>
+<br/>
+
 ## :warning: &nbsp; :warning: &nbsp; Informatii proiect
 
 * [**Lista proiecte**](https://docs.google.com/spreadsheets/d/1eiLA37C_eJEd_kGzug8pq2PXmIUxwLI_9yFi2M-yvBM/edit?usp=sharing)
